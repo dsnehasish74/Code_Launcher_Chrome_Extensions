@@ -1,0 +1,55 @@
+body{
+    background-color:#F4F5F7;
+    width: 300px;
+    padding: 0px 10px;
+}
+
+h1{
+    font-size: 2rem;
+    color: #505F79;
+    padding: 10px;
+}
+
+h3{
+    font-size: 1.3rem;
+    padding: 20px;
+    background-color: white;
+}
+a{
+    text-decoration: none!important;
+}
+.codeforce{
+    border-left:20px solid #6554C0;
+    color: #6554C0;
+    text-decoration: none!important;
+}
+.codechef{
+    border-left:20px solid #964B00;
+    color:  #964B00;
+}
+.geeks{
+    border-left:20px solid #00875A;
+    color: #00875A;
+    text-decoration: none;
+}
+.Leetcode{
+    border-left:20px solid #FFC400;
+    color: #FFC400;
+}
+.Hacker_Rank{
+    border-left:20px solid green;
+    color: green;
+}
+.Hacker_Earth{
+    border-left:20px solid#172B4D;
+    color: #172B4D;
+}
+.Atcoder{
+    border-left:20px solid black;
+    color: black;
+}
+
+.Spoj{
+    border-left:20px solid #00B8D9;
+    color: #00B8D9;
+}
